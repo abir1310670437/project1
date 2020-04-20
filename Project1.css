@@ -1,0 +1,68 @@
+    header{     background-color: azure;
+                border: 2px solid black;
+                
+            }
+            h1{
+                color: brown;
+                text-align: center;
+            }
+            h3{
+                color: cadetblue;
+                text-align: center;
+            }
+            body{
+                background-color: antiquewhite;
+            }
+            #y,label{
+                background-color: blanchedalmond;
+                border: 1px dotted black;
+            }
+            img{
+                width: 30%;
+            }
+            h2{
+                color: darkgreen;
+                text-align: center;
+                background-color: azure;
+            }
+            article{
+                background-color: gainsboro;
+                padding: 15px;
+            }
+           main > a{
+                font-weight: bold;
+                border: 1px dotted blue;
+                background-color: aqua;
+               text-align: center;
+               padding: 5px;
+            }
+            main > a:hover{
+                background-color: orange;
+            }
+            footer{
+                background-color: #787367;
+            }
+            footer>p{
+                text-align: center;
+                color: yellow;
+            }
+            h4{
+                color: aquamarine;
+            }
+            button{
+                background-color:violet;
+            }
+            table{
+                border: 2px solid black;
+                border-collapse: collapse;
+                text-align: center;
+                width: 50%;
+            }
+            th,td{
+                border: 1px solid black;
+                padding: 1px;
+            }
+            #x{
+                width: 60%;
+             margin-left: 35%;
+            }
