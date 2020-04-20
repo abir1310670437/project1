@@ -57,6 +57,7 @@
                 border-collapse: collapse;
                 text-align: center;
                 width: 50%;
+                 background-color:azure;
             }
             th,td{
                 border: 1px solid black;
@@ -65,5 +66,5 @@
             #x{
                 width: 60%;
              margin-left: 35%;
-                background-color:azure;
+               
             }
